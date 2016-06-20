@@ -1,0 +1,37 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="JavaFxSettings">
+    <option name="pathToSceneBuilder" value="C:/Program Files (x86)/Oracle/JavaFX Scene Builder 2.0/JavaFX Scene Builder 2.0.exe" />
+    <option name="myPathToSceneBuilder" value="C:/Program Files (x86)/Oracle/JavaFX Scene Builder 2.0/JavaFX Scene Builder 2.0.exe" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="renameParameterInHierarchy" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="RENAME_PARAMETER_IN_HIERARCHY" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
+  </component>
+</application>

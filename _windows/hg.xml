@@ -1,0 +1,10 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="C:\Program Files\TortoiseHg\hg.exe" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="bitbucket.org/datawatch/dns" value="Maksim_Prabarshchuk" />
+      </map>
+    </option>
+  </component>
+</application>
