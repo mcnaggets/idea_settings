@@ -72,6 +72,22 @@
       <version-cache version="4.2.4" last-modified="1450879096000" />
     </local-interpreter>
   </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://datawatch.atlassian.net">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfc7dfcbdfd0dfcbdfccdfcbdfc1dfcbdf9ddffddfe5dff8dfe1</password>
+      <option name="jiraVersion" value="1000.203.1" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>Maksim_Prabarshchuk@epam.com</username>
+    </JIRA>
+  </component>
   <component name="RefactoringSettings">
     <option name="renameParameterInHierarchy" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="false" />
