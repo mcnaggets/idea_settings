@@ -22,6 +22,10 @@
           <option name="url" value="https://Maksim_Prabarshchuk@bitbucket.org/datawatch/dns" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-projects/spring-security-kerberos.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\work" />
