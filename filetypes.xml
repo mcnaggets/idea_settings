@@ -7,6 +7,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
+      <mapping ext="prn" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <removed_mapping ext="dll" type="UNKNOWN" />
     </extensionMap>
