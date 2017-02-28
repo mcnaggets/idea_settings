@@ -3,7 +3,6 @@
     <option name="customScope" value="Project 'new-server'" />
     <option name="defaultScopeName" value="Project 'new-server'" />
     <option name="SEARCH_SCOPE" value="Project 'new-server'" />
-    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
