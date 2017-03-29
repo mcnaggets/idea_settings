@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/MaksimPrabarshchuk/JMP-2017-Maksim-Prabarshchuk-Aliaksandr-Babai-Group.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MaksimPrabarshchuk/incubator-predictionio-template-recommender.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\work" />
