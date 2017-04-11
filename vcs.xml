@@ -54,6 +54,6 @@
     <option name="cloneParentDir" value="C:\work" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="C:\work\dns_patches" />
+    <option name="PATCH_STORAGE_LOCATION" value="C:/work/dns_patches" />
   </component>
 </application>
